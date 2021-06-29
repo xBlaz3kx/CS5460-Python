@@ -17,6 +17,12 @@ from [an existing C library for Arduino](https://github.com/xxzl0130/CS5460).
 | CS | Any free GPIO pin |
 | RST | 3.3V |
 
+### Installing dependencies
+
+Install the dependencies using
+
+> pip3 install -r requirements
+
 ### Sample code
 
 ```
